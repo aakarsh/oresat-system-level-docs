@@ -11,6 +11,8 @@ in just one git repository.
    :maxdepth: 2
    :caption: Contents:
 
+   glossary.rst
+
 
 Indices and tables
 ==================
