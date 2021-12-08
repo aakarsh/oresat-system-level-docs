@@ -11,7 +11,8 @@ in just one git repository.
    :maxdepth: 2
    :caption: Contents:
 
-   glossary.rst
+   glossary
+   canopen
 
 
 Indices and tables
